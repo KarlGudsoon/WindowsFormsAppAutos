@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|c:\\users\\truch\\source\\repos\\windowsformsappcirculacion\\forms\\frmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|solutionrelative:forms\\frmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|solutionrelative:models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|solutionrelative:services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\forms\\frmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68E21008-19DA-48B2-8AF9-D674AB3E5180}|WindowsFormsAppCirculacion.csproj|solutionrelative:forms\\frmpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPanel.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Forms\\FrmPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPanel.cs",
+              "ToolTip": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Forms\\FrmPanel.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmPanel.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:31:35.256Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPanel.cs",
+              "DocumentMoniker": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Forms\\FrmPanel.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmPanel.cs",
+              "ToolTip": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Forms\\FrmPanel.cs",
+              "RelativeToolTip": "Forms\\FrmPanel.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAUwE4BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T03:37:12.21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Services\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "Services\\VehiculoService.cs",
+              "ToolTip": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Services\\VehiculoService.cs",
+              "RelativeToolTip": "Services\\VehiculoService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T20:01:00.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\truch\\source\\repos\\WindowsFormsAppCirculacion\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T19:59:58.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
